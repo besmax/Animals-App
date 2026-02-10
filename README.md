@@ -1,5 +1,7 @@
 # Animals-App
 
+Support: bespalov.m.9@gmail.com
+
 RuStore: https://www.rustore.ru/catalog/app/bes.max.animals
 
 GooglePlay: https://play.google.com/store/apps/details?id=bes.max.animals.paid
