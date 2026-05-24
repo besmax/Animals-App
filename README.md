@@ -2,7 +2,7 @@
 
 Support: bespalov.m.9@gmail.com
 
-RuStore: https://www.rustore.ru/catalog/app/bes.max.animals
+App Store: https://apps.apple.com/us/app/little-beasts/id6758977064#information
 
 GooglePlay: https://play.google.com/store/apps/details?id=bes.max.animals.paid
 
